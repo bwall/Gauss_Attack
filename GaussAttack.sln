@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GaussAttack", "GaussAttack\GaussAttack.vcxproj", "{CE3A78E0-E6B5-4F33-B0D2-6A814FCE6C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3A78E0-E6B5-4F33-B0D2-6A814FCE6C18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE3A78E0-E6B5-4F33-B0D2-6A814FCE6C18}.Debug|Win32.Build.0 = Debug|Win32
+		{CE3A78E0-E6B5-4F33-B0D2-6A814FCE6C18}.Release|Win32.ActiveCfg = Release|Win32
+		{CE3A78E0-E6B5-4F33-B0D2-6A814FCE6C18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
